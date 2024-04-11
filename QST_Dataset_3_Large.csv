@@ -1,0 +1,1001 @@
+Dataset ID,Quantum State,Method,Expected Fidelity,Observed Fidelity,Expected Error,Observed Error,CI Lower Bound,CI Upper Bound
+QST Dataset3,State 1,Bayesian Inference,0.949,0.779,0.071,0.148,0.706,0.773
+QST Dataset3,State 2,Maximum Likelihood,0.829,0.705,0.196,0.064,0.744,0.85
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.743,0.9,0.089,0.145,0.881,0.827
+QST Dataset3,State 4,Quantum Neural Networks,0.747,0.729,0.148,0.139,0.885,0.757
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.749,0.867,0.148,0.168,0.9,0.781
+QST Dataset3,State 1,Shadow Tomography,0.738,0.766,0.093,0.165,0.91,0.825
+QST Dataset3,State 2,Bayesian Inference,0.882,0.759,0.224,0.16,0.714,0.883
+QST Dataset3,State 3,Maximum Likelihood,0.907,0.938,0.063,0.149,0.765,0.867
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.787,0.816,0.283,0.206,0.712,0.821
+QST Dataset3,State 5,Quantum Neural Networks,0.84,0.942,0.277,0.287,0.803,0.812
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.866,0.867,0.189,0.051,0.725,0.806
+QST Dataset3,State 2,Shadow Tomography,0.809,0.813,0.063,0.287,0.869,0.91
+QST Dataset3,State 3,Bayesian Inference,0.914,0.92,0.112,0.13,0.925,0.877
+QST Dataset3,State 4,Maximum Likelihood,0.73,0.913,0.262,0.211,0.887,0.774
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.81,0.735,0.242,0.223,0.699,0.876
+QST Dataset3,State 1,Quantum Neural Networks,0.908,0.94,0.163,0.27,0.878,0.859
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.938,0.92,0.109,0.091,0.714,0.866
+QST Dataset3,State 3,Shadow Tomography,0.814,0.738,0.271,0.108,0.918,0.957
+QST Dataset3,State 4,Bayesian Inference,0.77,0.935,0.144,0.206,0.771,0.925
+QST Dataset3,State 5,Maximum Likelihood,0.818,0.94,0.181,0.109,0.65,0.942
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.792,0.781,0.261,0.246,0.773,0.858
+QST Dataset3,State 2,Quantum Neural Networks,0.828,0.711,0.151,0.281,0.79,0.755
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.717,0.811,0.062,0.266,0.861,0.784
+QST Dataset3,State 4,Shadow Tomography,0.789,0.736,0.086,0.163,0.879,0.855
+QST Dataset3,State 5,Bayesian Inference,0.779,0.829,0.3,0.285,0.822,0.947
+QST Dataset3,State 1,Maximum Likelihood,0.857,0.852,0.29,0.189,0.921,0.871
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.798,0.913,0.198,0.117,0.917,0.802
+QST Dataset3,State 3,Quantum Neural Networks,0.923,0.765,0.072,0.149,0.774,0.927
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.909,0.752,0.223,0.189,0.929,0.758
+QST Dataset3,State 5,Shadow Tomography,0.88,0.868,0.265,0.178,0.775,0.862
+QST Dataset3,State 1,Bayesian Inference,0.929,0.751,0.131,0.208,0.889,0.837
+QST Dataset3,State 2,Maximum Likelihood,0.948,0.706,0.259,0.066,0.906,0.869
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.871,0.867,0.226,0.239,0.867,0.896
+QST Dataset3,State 4,Quantum Neural Networks,0.71,0.705,0.249,0.199,0.782,0.936
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.808,0.755,0.132,0.259,0.805,0.792
+QST Dataset3,State 1,Shadow Tomography,0.797,0.89,0.172,0.284,0.696,0.756
+QST Dataset3,State 2,Bayesian Inference,0.897,0.911,0.066,0.261,0.711,0.799
+QST Dataset3,State 3,Maximum Likelihood,0.902,0.757,0.067,0.256,0.876,0.85
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.92,0.79,0.285,0.297,0.751,0.859
+QST Dataset3,State 5,Quantum Neural Networks,0.914,0.739,0.241,0.07,0.824,0.921
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.949,0.737,0.102,0.107,0.906,0.809
+QST Dataset3,State 2,Shadow Tomography,0.912,0.877,0.213,0.083,0.731,0.835
+QST Dataset3,State 3,Bayesian Inference,0.741,0.728,0.215,0.28,0.655,0.948
+QST Dataset3,State 4,Maximum Likelihood,0.727,0.886,0.087,0.257,0.928,0.751
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.845,0.915,0.058,0.182,0.737,0.84
+QST Dataset3,State 1,Quantum Neural Networks,0.949,0.701,0.217,0.136,0.661,0.828
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.797,0.789,0.185,0.276,0.731,0.932
+QST Dataset3,State 3,Shadow Tomography,0.777,0.846,0.184,0.138,0.779,0.903
+QST Dataset3,State 4,Bayesian Inference,0.702,0.804,0.212,0.279,0.788,0.868
+QST Dataset3,State 5,Maximum Likelihood,0.863,0.835,0.198,0.161,0.803,0.867
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.707,0.862,0.169,0.139,0.82,0.837
+QST Dataset3,State 2,Quantum Neural Networks,0.741,0.857,0.176,0.296,0.854,0.84
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.82,0.844,0.209,0.238,0.849,0.933
+QST Dataset3,State 4,Shadow Tomography,0.766,0.895,0.066,0.203,0.902,0.961
+QST Dataset3,State 5,Bayesian Inference,0.886,0.806,0.241,0.091,0.77,0.965
+QST Dataset3,State 1,Maximum Likelihood,0.787,0.885,0.081,0.255,0.676,0.951
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.906,0.84,0.269,0.25,0.898,0.965
+QST Dataset3,State 3,Quantum Neural Networks,0.706,0.94,0.176,0.238,0.822,0.912
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.757,0.763,0.181,0.166,0.846,0.961
+QST Dataset3,State 5,Shadow Tomography,0.789,0.752,0.2,0.224,0.798,0.948
+QST Dataset3,State 1,Bayesian Inference,0.808,0.944,0.138,0.297,0.732,0.964
+QST Dataset3,State 2,Maximum Likelihood,0.832,0.946,0.157,0.209,0.777,0.887
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.826,0.897,0.087,0.186,0.765,0.865
+QST Dataset3,State 4,Quantum Neural Networks,0.907,0.75,0.069,0.216,0.776,0.941
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.869,0.797,0.081,0.229,0.674,0.814
+QST Dataset3,State 1,Shadow Tomography,0.703,0.711,0.254,0.09,0.826,0.949
+QST Dataset3,State 2,Bayesian Inference,0.948,0.894,0.081,0.181,0.682,0.886
+QST Dataset3,State 3,Maximum Likelihood,0.921,0.917,0.263,0.162,0.676,0.849
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.926,0.865,0.209,0.081,0.83,0.751
+QST Dataset3,State 5,Quantum Neural Networks,0.839,0.939,0.088,0.125,0.681,0.876
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.846,0.91,0.229,0.206,0.727,0.89
+QST Dataset3,State 2,Shadow Tomography,0.706,0.852,0.234,0.214,0.885,0.865
+QST Dataset3,State 3,Bayesian Inference,0.857,0.943,0.072,0.101,0.927,0.753
+QST Dataset3,State 4,Maximum Likelihood,0.831,0.866,0.057,0.167,0.906,0.773
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.819,0.741,0.079,0.27,0.662,0.76
+QST Dataset3,State 1,Quantum Neural Networks,0.762,0.917,0.243,0.063,0.826,0.932
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.926,0.715,0.253,0.206,0.679,0.766
+QST Dataset3,State 3,Shadow Tomography,0.83,0.914,0.293,0.148,0.868,0.84
+QST Dataset3,State 4,Bayesian Inference,0.759,0.827,0.272,0.244,0.671,0.956
+QST Dataset3,State 5,Maximum Likelihood,0.938,0.726,0.125,0.173,0.747,0.898
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.932,0.896,0.223,0.231,0.923,0.847
+QST Dataset3,State 2,Quantum Neural Networks,0.854,0.753,0.184,0.284,0.835,0.78
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.772,0.928,0.112,0.191,0.766,0.81
+QST Dataset3,State 4,Shadow Tomography,0.94,0.739,0.25,0.081,0.768,0.836
+QST Dataset3,State 5,Bayesian Inference,0.779,0.709,0.05,0.105,0.782,0.951
+QST Dataset3,State 1,Maximum Likelihood,0.858,0.864,0.172,0.258,0.885,0.961
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.898,0.766,0.135,0.072,0.839,0.905
+QST Dataset3,State 3,Quantum Neural Networks,0.851,0.753,0.143,0.052,0.842,0.813
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.903,0.898,0.195,0.219,0.834,0.808
+QST Dataset3,State 5,Shadow Tomography,0.708,0.737,0.231,0.178,0.92,0.921
+QST Dataset3,State 1,Bayesian Inference,0.886,0.843,0.241,0.094,0.871,0.777
+QST Dataset3,State 2,Maximum Likelihood,0.923,0.782,0.138,0.226,0.763,0.913
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.711,0.768,0.057,0.137,0.78,0.854
+QST Dataset3,State 4,Quantum Neural Networks,0.749,0.796,0.128,0.166,0.828,0.878
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.934,0.833,0.191,0.052,0.884,0.934
+QST Dataset3,State 1,Shadow Tomography,0.92,0.927,0.275,0.189,0.709,0.922
+QST Dataset3,State 2,Bayesian Inference,0.749,0.706,0.179,0.091,0.847,0.86
+QST Dataset3,State 3,Maximum Likelihood,0.806,0.817,0.229,0.13,0.796,0.811
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.705,0.78,0.116,0.176,0.651,0.769
+QST Dataset3,State 5,Quantum Neural Networks,0.716,0.766,0.094,0.166,0.926,0.922
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.756,0.795,0.117,0.158,0.716,0.866
+QST Dataset3,State 2,Shadow Tomography,0.786,0.886,0.124,0.053,0.739,0.788
+QST Dataset3,State 3,Bayesian Inference,0.78,0.783,0.215,0.272,0.902,0.909
+QST Dataset3,State 4,Maximum Likelihood,0.744,0.809,0.239,0.141,0.867,0.882
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.82,0.761,0.263,0.094,0.825,0.759
+QST Dataset3,State 1,Quantum Neural Networks,0.82,0.815,0.11,0.185,0.747,0.872
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.778,0.934,0.207,0.15,0.852,0.793
+QST Dataset3,State 3,Shadow Tomography,0.868,0.721,0.199,0.177,0.826,0.752
+QST Dataset3,State 4,Bayesian Inference,0.743,0.894,0.085,0.095,0.66,0.783
+QST Dataset3,State 5,Maximum Likelihood,0.882,0.823,0.084,0.294,0.89,0.77
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.927,0.706,0.273,0.091,0.895,0.864
+QST Dataset3,State 2,Quantum Neural Networks,0.927,0.789,0.12,0.188,0.889,0.936
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.735,0.756,0.154,0.054,0.764,0.88
+QST Dataset3,State 4,Shadow Tomography,0.934,0.839,0.213,0.082,0.812,0.943
+QST Dataset3,State 5,Bayesian Inference,0.94,0.864,0.27,0.095,0.655,0.956
+QST Dataset3,State 1,Maximum Likelihood,0.878,0.725,0.222,0.272,0.773,0.782
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.705,0.727,0.239,0.123,0.862,0.817
+QST Dataset3,State 3,Quantum Neural Networks,0.75,0.858,0.294,0.215,0.818,0.937
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.933,0.871,0.091,0.069,0.855,0.928
+QST Dataset3,State 5,Shadow Tomography,0.914,0.75,0.069,0.281,0.727,0.953
+QST Dataset3,State 1,Bayesian Inference,0.92,0.911,0.183,0.237,0.717,0.793
+QST Dataset3,State 2,Maximum Likelihood,0.924,0.832,0.129,0.12,0.735,0.936
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.759,0.877,0.172,0.237,0.693,0.842
+QST Dataset3,State 4,Quantum Neural Networks,0.864,0.716,0.127,0.132,0.712,0.961
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.706,0.73,0.232,0.133,0.675,0.762
+QST Dataset3,State 1,Shadow Tomography,0.816,0.76,0.222,0.24,0.761,0.785
+QST Dataset3,State 2,Bayesian Inference,0.925,0.934,0.196,0.105,0.802,0.873
+QST Dataset3,State 3,Maximum Likelihood,0.724,0.836,0.053,0.129,0.926,0.916
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.745,0.93,0.13,0.236,0.826,0.826
+QST Dataset3,State 5,Quantum Neural Networks,0.798,0.825,0.127,0.065,0.705,0.892
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.83,0.731,0.28,0.106,0.692,0.768
+QST Dataset3,State 2,Shadow Tomography,0.877,0.918,0.273,0.291,0.77,0.754
+QST Dataset3,State 3,Bayesian Inference,0.856,0.826,0.264,0.245,0.663,0.881
+QST Dataset3,State 4,Maximum Likelihood,0.72,0.821,0.195,0.271,0.695,0.822
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.889,0.946,0.164,0.141,0.825,0.923
+QST Dataset3,State 1,Quantum Neural Networks,0.776,0.715,0.071,0.178,0.782,0.862
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.922,0.768,0.055,0.105,0.702,0.872
+QST Dataset3,State 3,Shadow Tomography,0.944,0.789,0.287,0.217,0.682,0.929
+QST Dataset3,State 4,Bayesian Inference,0.807,0.754,0.218,0.112,0.868,0.812
+QST Dataset3,State 5,Maximum Likelihood,0.816,0.825,0.118,0.197,0.873,0.852
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.751,0.725,0.283,0.287,0.749,0.813
+QST Dataset3,State 2,Quantum Neural Networks,0.886,0.928,0.07,0.284,0.76,0.847
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.782,0.785,0.127,0.056,0.895,0.856
+QST Dataset3,State 4,Shadow Tomography,0.757,0.948,0.128,0.11,0.765,0.825
+QST Dataset3,State 5,Bayesian Inference,0.776,0.821,0.218,0.247,0.868,0.844
+QST Dataset3,State 1,Maximum Likelihood,0.803,0.727,0.295,0.068,0.749,0.962
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.786,0.885,0.263,0.201,0.692,0.819
+QST Dataset3,State 3,Quantum Neural Networks,0.834,0.825,0.105,0.251,0.759,0.952
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.736,0.798,0.267,0.284,0.803,0.89
+QST Dataset3,State 5,Shadow Tomography,0.908,0.719,0.055,0.277,0.686,0.89
+QST Dataset3,State 1,Bayesian Inference,0.805,0.797,0.188,0.293,0.864,0.945
+QST Dataset3,State 2,Maximum Likelihood,0.805,0.713,0.213,0.269,0.749,0.812
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.796,0.759,0.257,0.3,0.728,0.837
+QST Dataset3,State 4,Quantum Neural Networks,0.844,0.856,0.23,0.058,0.902,0.965
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.91,0.949,0.231,0.098,0.919,0.911
+QST Dataset3,State 1,Shadow Tomography,0.851,0.794,0.185,0.084,0.817,0.799
+QST Dataset3,State 2,Bayesian Inference,0.899,0.863,0.141,0.216,0.654,0.875
+QST Dataset3,State 3,Maximum Likelihood,0.923,0.735,0.183,0.14,0.689,0.751
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.755,0.732,0.106,0.155,0.871,0.906
+QST Dataset3,State 5,Quantum Neural Networks,0.921,0.938,0.125,0.189,0.903,0.792
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.738,0.807,0.14,0.151,0.664,0.903
+QST Dataset3,State 2,Shadow Tomography,0.737,0.737,0.121,0.184,0.757,0.878
+QST Dataset3,State 3,Bayesian Inference,0.941,0.863,0.095,0.152,0.78,0.896
+QST Dataset3,State 4,Maximum Likelihood,0.828,0.797,0.198,0.14,0.723,0.969
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.922,0.797,0.281,0.281,0.674,0.786
+QST Dataset3,State 1,Quantum Neural Networks,0.754,0.889,0.07,0.107,0.668,0.965
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.743,0.895,0.151,0.147,0.907,0.926
+QST Dataset3,State 3,Shadow Tomography,0.769,0.761,0.163,0.138,0.746,0.857
+QST Dataset3,State 4,Bayesian Inference,0.879,0.903,0.069,0.172,0.708,0.907
+QST Dataset3,State 5,Maximum Likelihood,0.838,0.921,0.228,0.055,0.806,0.883
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.899,0.872,0.23,0.131,0.731,0.773
+QST Dataset3,State 2,Quantum Neural Networks,0.883,0.878,0.275,0.273,0.834,0.798
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.888,0.869,0.186,0.139,0.651,0.835
+QST Dataset3,State 4,Shadow Tomography,0.874,0.879,0.263,0.256,0.76,0.898
+QST Dataset3,State 5,Bayesian Inference,0.744,0.895,0.2,0.259,0.691,0.847
+QST Dataset3,State 1,Maximum Likelihood,0.704,0.731,0.061,0.249,0.894,0.908
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.71,0.805,0.245,0.181,0.747,0.774
+QST Dataset3,State 3,Quantum Neural Networks,0.805,0.761,0.166,0.172,0.89,0.814
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.903,0.944,0.163,0.123,0.791,0.788
+QST Dataset3,State 5,Shadow Tomography,0.718,0.725,0.285,0.098,0.73,0.83
+QST Dataset3,State 1,Bayesian Inference,0.949,0.851,0.242,0.051,0.754,0.962
+QST Dataset3,State 2,Maximum Likelihood,0.737,0.846,0.195,0.108,0.896,0.77
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.878,0.933,0.124,0.075,0.84,0.899
+QST Dataset3,State 4,Quantum Neural Networks,0.839,0.945,0.05,0.235,0.755,0.835
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.745,0.717,0.204,0.206,0.689,0.809
+QST Dataset3,State 1,Shadow Tomography,0.891,0.73,0.081,0.072,0.914,0.803
+QST Dataset3,State 2,Bayesian Inference,0.919,0.888,0.142,0.277,0.708,0.897
+QST Dataset3,State 3,Maximum Likelihood,0.891,0.718,0.189,0.186,0.72,0.956
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.844,0.757,0.286,0.11,0.729,0.828
+QST Dataset3,State 5,Quantum Neural Networks,0.949,0.896,0.239,0.192,0.745,0.793
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.728,0.797,0.282,0.051,0.894,0.859
+QST Dataset3,State 2,Shadow Tomography,0.914,0.813,0.219,0.056,0.798,0.898
+QST Dataset3,State 3,Bayesian Inference,0.871,0.903,0.19,0.094,0.819,0.926
+QST Dataset3,State 4,Maximum Likelihood,0.737,0.72,0.053,0.052,0.739,0.818
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.741,0.878,0.203,0.074,0.805,0.759
+QST Dataset3,State 1,Quantum Neural Networks,0.876,0.796,0.286,0.274,0.677,0.89
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.748,0.889,0.123,0.085,0.713,0.781
+QST Dataset3,State 3,Shadow Tomography,0.929,0.835,0.093,0.189,0.723,0.782
+QST Dataset3,State 4,Bayesian Inference,0.876,0.863,0.211,0.108,0.791,0.773
+QST Dataset3,State 5,Maximum Likelihood,0.864,0.877,0.171,0.154,0.859,0.846
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.744,0.719,0.056,0.236,0.896,0.881
+QST Dataset3,State 2,Quantum Neural Networks,0.892,0.707,0.282,0.213,0.69,0.783
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.887,0.7,0.171,0.128,0.879,0.86
+QST Dataset3,State 4,Shadow Tomography,0.729,0.883,0.169,0.18,0.871,0.798
+QST Dataset3,State 5,Bayesian Inference,0.902,0.928,0.146,0.104,0.858,0.845
+QST Dataset3,State 1,Maximum Likelihood,0.823,0.893,0.205,0.05,0.674,0.881
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.909,0.772,0.279,0.087,0.688,0.84
+QST Dataset3,State 3,Quantum Neural Networks,0.898,0.846,0.126,0.087,0.769,0.859
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.867,0.882,0.233,0.181,0.683,0.83
+QST Dataset3,State 5,Shadow Tomography,0.784,0.718,0.082,0.094,0.657,0.884
+QST Dataset3,State 1,Bayesian Inference,0.894,0.727,0.179,0.248,0.723,0.96
+QST Dataset3,State 2,Maximum Likelihood,0.735,0.943,0.281,0.122,0.912,0.939
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.853,0.943,0.214,0.054,0.698,0.891
+QST Dataset3,State 4,Quantum Neural Networks,0.934,0.934,0.282,0.286,0.834,0.881
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.706,0.893,0.15,0.086,0.678,0.857
+QST Dataset3,State 1,Shadow Tomography,0.813,0.829,0.127,0.299,0.909,0.959
+QST Dataset3,State 2,Bayesian Inference,0.809,0.83,0.24,0.206,0.72,0.948
+QST Dataset3,State 3,Maximum Likelihood,0.826,0.781,0.13,0.067,0.753,0.804
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.929,0.814,0.07,0.244,0.893,0.903
+QST Dataset3,State 5,Quantum Neural Networks,0.855,0.759,0.254,0.258,0.829,0.912
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.756,0.767,0.063,0.168,0.898,0.954
+QST Dataset3,State 2,Shadow Tomography,0.777,0.904,0.143,0.144,0.876,0.931
+QST Dataset3,State 3,Bayesian Inference,0.861,0.837,0.181,0.19,0.727,0.909
+QST Dataset3,State 4,Maximum Likelihood,0.716,0.705,0.062,0.141,0.75,0.758
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.706,0.884,0.261,0.171,0.83,0.97
+QST Dataset3,State 1,Quantum Neural Networks,0.857,0.921,0.057,0.076,0.837,0.791
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.866,0.852,0.216,0.26,0.781,0.76
+QST Dataset3,State 3,Shadow Tomography,0.803,0.713,0.142,0.225,0.847,0.811
+QST Dataset3,State 4,Bayesian Inference,0.892,0.887,0.086,0.232,0.822,0.885
+QST Dataset3,State 5,Maximum Likelihood,0.78,0.748,0.273,0.094,0.657,0.783
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.7,0.754,0.1,0.23,0.779,0.886
+QST Dataset3,State 2,Quantum Neural Networks,0.829,0.723,0.292,0.202,0.895,0.818
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.877,0.916,0.054,0.255,0.837,0.884
+QST Dataset3,State 4,Shadow Tomography,0.734,0.939,0.208,0.102,0.715,0.88
+QST Dataset3,State 5,Bayesian Inference,0.846,0.877,0.287,0.236,0.658,0.829
+QST Dataset3,State 1,Maximum Likelihood,0.861,0.917,0.238,0.066,0.872,0.807
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.891,0.883,0.162,0.165,0.681,0.753
+QST Dataset3,State 3,Quantum Neural Networks,0.718,0.82,0.187,0.223,0.721,0.87
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.871,0.903,0.196,0.197,0.862,0.898
+QST Dataset3,State 5,Shadow Tomography,0.871,0.764,0.149,0.137,0.886,0.807
+QST Dataset3,State 1,Bayesian Inference,0.734,0.707,0.162,0.282,0.919,0.788
+QST Dataset3,State 2,Maximum Likelihood,0.848,0.753,0.135,0.294,0.879,0.911
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.744,0.915,0.283,0.193,0.703,0.841
+QST Dataset3,State 4,Quantum Neural Networks,0.838,0.74,0.146,0.179,0.738,0.852
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.727,0.754,0.162,0.088,0.75,0.79
+QST Dataset3,State 1,Shadow Tomography,0.82,0.805,0.222,0.291,0.857,0.771
+QST Dataset3,State 2,Bayesian Inference,0.806,0.786,0.095,0.273,0.735,0.877
+QST Dataset3,State 3,Maximum Likelihood,0.838,0.859,0.174,0.172,0.887,0.959
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.935,0.881,0.089,0.291,0.918,0.963
+QST Dataset3,State 5,Quantum Neural Networks,0.749,0.724,0.053,0.279,0.832,0.762
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.805,0.849,0.289,0.125,0.906,0.957
+QST Dataset3,State 2,Shadow Tomography,0.72,0.87,0.167,0.061,0.819,0.821
+QST Dataset3,State 3,Bayesian Inference,0.884,0.883,0.156,0.192,0.763,0.845
+QST Dataset3,State 4,Maximum Likelihood,0.798,0.72,0.176,0.261,0.925,0.786
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.894,0.884,0.121,0.196,0.847,0.944
+QST Dataset3,State 1,Quantum Neural Networks,0.808,0.888,0.233,0.256,0.804,0.958
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.87,0.824,0.109,0.113,0.675,0.868
+QST Dataset3,State 3,Shadow Tomography,0.928,0.799,0.26,0.077,0.884,0.795
+QST Dataset3,State 4,Bayesian Inference,0.766,0.826,0.099,0.232,0.831,0.915
+QST Dataset3,State 5,Maximum Likelihood,0.927,0.938,0.09,0.107,0.677,0.957
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.803,0.722,0.243,0.139,0.81,0.96
+QST Dataset3,State 2,Quantum Neural Networks,0.92,0.829,0.228,0.105,0.877,0.774
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.758,0.787,0.098,0.104,0.899,0.84
+QST Dataset3,State 4,Shadow Tomography,0.776,0.917,0.245,0.084,0.761,0.838
+QST Dataset3,State 5,Bayesian Inference,0.808,0.831,0.072,0.296,0.799,0.847
+QST Dataset3,State 1,Maximum Likelihood,0.806,0.75,0.072,0.16,0.719,0.882
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.804,0.743,0.234,0.182,0.844,0.773
+QST Dataset3,State 3,Quantum Neural Networks,0.7,0.77,0.236,0.299,0.723,0.857
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.833,0.786,0.218,0.184,0.866,0.772
+QST Dataset3,State 5,Shadow Tomography,0.867,0.705,0.053,0.273,0.85,0.928
+QST Dataset3,State 1,Bayesian Inference,0.938,0.701,0.23,0.088,0.913,0.797
+QST Dataset3,State 2,Maximum Likelihood,0.867,0.786,0.195,0.281,0.832,0.945
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.913,0.871,0.3,0.211,0.909,0.896
+QST Dataset3,State 4,Quantum Neural Networks,0.924,0.779,0.293,0.296,0.673,0.781
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.853,0.896,0.074,0.25,0.748,0.955
+QST Dataset3,State 1,Shadow Tomography,0.705,0.895,0.053,0.055,0.791,0.929
+QST Dataset3,State 2,Bayesian Inference,0.931,0.854,0.19,0.283,0.756,0.968
+QST Dataset3,State 3,Maximum Likelihood,0.898,0.945,0.177,0.225,0.789,0.828
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.779,0.708,0.277,0.246,0.796,0.8
+QST Dataset3,State 5,Quantum Neural Networks,0.94,0.939,0.186,0.214,0.762,0.809
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.754,0.923,0.173,0.203,0.698,0.768
+QST Dataset3,State 2,Shadow Tomography,0.753,0.9,0.274,0.246,0.77,0.88
+QST Dataset3,State 3,Bayesian Inference,0.794,0.71,0.111,0.24,0.72,0.816
+QST Dataset3,State 4,Maximum Likelihood,0.712,0.944,0.11,0.169,0.778,0.792
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.75,0.834,0.056,0.105,0.757,0.97
+QST Dataset3,State 1,Quantum Neural Networks,0.867,0.834,0.203,0.295,0.807,0.956
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.713,0.776,0.203,0.247,0.874,0.942
+QST Dataset3,State 3,Shadow Tomography,0.755,0.905,0.226,0.108,0.78,0.894
+QST Dataset3,State 4,Bayesian Inference,0.758,0.832,0.225,0.153,0.812,0.838
+QST Dataset3,State 5,Maximum Likelihood,0.874,0.743,0.082,0.292,0.657,0.927
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.93,0.727,0.12,0.076,0.838,0.805
+QST Dataset3,State 2,Quantum Neural Networks,0.798,0.931,0.287,0.195,0.781,0.753
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.848,0.702,0.157,0.102,0.806,0.832
+QST Dataset3,State 4,Shadow Tomography,0.703,0.83,0.063,0.167,0.871,0.831
+QST Dataset3,State 5,Bayesian Inference,0.935,0.862,0.129,0.114,0.702,0.781
+QST Dataset3,State 1,Maximum Likelihood,0.792,0.75,0.234,0.067,0.865,0.96
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.725,0.785,0.106,0.128,0.697,0.819
+QST Dataset3,State 3,Quantum Neural Networks,0.731,0.935,0.255,0.274,0.909,0.903
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.816,0.807,0.289,0.052,0.925,0.943
+QST Dataset3,State 5,Shadow Tomography,0.854,0.912,0.109,0.278,0.706,0.945
+QST Dataset3,State 1,Bayesian Inference,0.937,0.72,0.161,0.223,0.853,0.806
+QST Dataset3,State 2,Maximum Likelihood,0.816,0.895,0.263,0.221,0.733,0.9
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.95,0.884,0.235,0.25,0.794,0.814
+QST Dataset3,State 4,Quantum Neural Networks,0.942,0.905,0.121,0.093,0.681,0.866
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.936,0.831,0.25,0.222,0.669,0.833
+QST Dataset3,State 1,Shadow Tomography,0.818,0.867,0.251,0.295,0.774,0.964
+QST Dataset3,State 2,Bayesian Inference,0.757,0.838,0.214,0.207,0.898,0.846
+QST Dataset3,State 3,Maximum Likelihood,0.744,0.939,0.214,0.271,0.905,0.75
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.786,0.916,0.142,0.157,0.68,0.781
+QST Dataset3,State 5,Quantum Neural Networks,0.76,0.917,0.143,0.171,0.733,0.773
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.74,0.834,0.278,0.189,0.731,0.867
+QST Dataset3,State 2,Shadow Tomography,0.913,0.78,0.194,0.106,0.93,0.888
+QST Dataset3,State 3,Bayesian Inference,0.92,0.905,0.209,0.181,0.718,0.816
+QST Dataset3,State 4,Maximum Likelihood,0.793,0.767,0.224,0.19,0.732,0.94
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.876,0.823,0.288,0.262,0.823,0.864
+QST Dataset3,State 1,Quantum Neural Networks,0.717,0.946,0.05,0.261,0.893,0.811
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.816,0.705,0.249,0.216,0.855,0.845
+QST Dataset3,State 3,Shadow Tomography,0.827,0.94,0.199,0.159,0.757,0.918
+QST Dataset3,State 4,Bayesian Inference,0.725,0.81,0.233,0.097,0.682,0.807
+QST Dataset3,State 5,Maximum Likelihood,0.753,0.802,0.091,0.171,0.923,0.919
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.879,0.78,0.133,0.11,0.754,0.844
+QST Dataset3,State 2,Quantum Neural Networks,0.894,0.936,0.274,0.159,0.922,0.77
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.841,0.921,0.116,0.211,0.76,0.759
+QST Dataset3,State 4,Shadow Tomography,0.933,0.819,0.276,0.221,0.719,0.79
+QST Dataset3,State 5,Bayesian Inference,0.897,0.76,0.294,0.209,0.692,0.801
+QST Dataset3,State 1,Maximum Likelihood,0.856,0.879,0.126,0.297,0.775,0.805
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.868,0.776,0.06,0.145,0.91,0.825
+QST Dataset3,State 3,Quantum Neural Networks,0.787,0.893,0.277,0.146,0.73,0.81
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.839,0.751,0.124,0.091,0.921,0.885
+QST Dataset3,State 5,Shadow Tomography,0.821,0.933,0.275,0.151,0.926,0.967
+QST Dataset3,State 1,Bayesian Inference,0.822,0.924,0.245,0.296,0.812,0.921
+QST Dataset3,State 2,Maximum Likelihood,0.913,0.763,0.206,0.098,0.91,0.943
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.932,0.845,0.234,0.051,0.813,0.938
+QST Dataset3,State 4,Quantum Neural Networks,0.737,0.785,0.226,0.214,0.886,0.816
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.937,0.781,0.282,0.276,0.746,0.884
+QST Dataset3,State 1,Shadow Tomography,0.718,0.84,0.165,0.24,0.854,0.841
+QST Dataset3,State 2,Bayesian Inference,0.88,0.836,0.13,0.267,0.75,0.869
+QST Dataset3,State 3,Maximum Likelihood,0.709,0.776,0.216,0.291,0.657,0.899
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.746,0.748,0.086,0.148,0.758,0.866
+QST Dataset3,State 5,Quantum Neural Networks,0.789,0.778,0.177,0.173,0.878,0.929
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.804,0.842,0.292,0.143,0.93,0.758
+QST Dataset3,State 2,Shadow Tomography,0.937,0.862,0.229,0.2,0.91,0.766
+QST Dataset3,State 3,Bayesian Inference,0.831,0.704,0.236,0.102,0.742,0.774
+QST Dataset3,State 4,Maximum Likelihood,0.854,0.931,0.293,0.286,0.843,0.956
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.73,0.704,0.221,0.163,0.763,0.851
+QST Dataset3,State 1,Quantum Neural Networks,0.815,0.912,0.134,0.079,0.844,0.778
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.856,0.704,0.262,0.127,0.923,0.882
+QST Dataset3,State 3,Shadow Tomography,0.935,0.833,0.257,0.181,0.885,0.916
+QST Dataset3,State 4,Bayesian Inference,0.888,0.786,0.272,0.147,0.89,0.843
+QST Dataset3,State 5,Maximum Likelihood,0.821,0.88,0.221,0.208,0.653,0.827
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.935,0.921,0.281,0.178,0.771,0.88
+QST Dataset3,State 2,Quantum Neural Networks,0.82,0.896,0.26,0.268,0.806,0.933
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.912,0.815,0.2,0.09,0.799,0.919
+QST Dataset3,State 4,Shadow Tomography,0.708,0.84,0.192,0.28,0.799,0.797
+QST Dataset3,State 5,Bayesian Inference,0.791,0.867,0.246,0.135,0.76,0.906
+QST Dataset3,State 1,Maximum Likelihood,0.9,0.824,0.212,0.15,0.652,0.862
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.727,0.91,0.051,0.113,0.762,0.929
+QST Dataset3,State 3,Quantum Neural Networks,0.723,0.917,0.252,0.12,0.871,0.897
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.944,0.776,0.158,0.298,0.917,0.911
+QST Dataset3,State 5,Shadow Tomography,0.703,0.753,0.273,0.267,0.677,0.756
+QST Dataset3,State 1,Bayesian Inference,0.817,0.936,0.059,0.068,0.743,0.893
+QST Dataset3,State 2,Maximum Likelihood,0.93,0.827,0.107,0.278,0.665,0.752
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.743,0.948,0.073,0.288,0.693,0.878
+QST Dataset3,State 4,Quantum Neural Networks,0.718,0.775,0.111,0.09,0.924,0.958
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.8,0.919,0.179,0.149,0.805,0.962
+QST Dataset3,State 1,Shadow Tomography,0.712,0.911,0.204,0.146,0.864,0.78
+QST Dataset3,State 2,Bayesian Inference,0.838,0.914,0.073,0.129,0.87,0.85
+QST Dataset3,State 3,Maximum Likelihood,0.715,0.845,0.091,0.246,0.718,0.95
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.904,0.774,0.176,0.213,0.747,0.943
+QST Dataset3,State 5,Quantum Neural Networks,0.924,0.887,0.246,0.249,0.697,0.828
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.912,0.719,0.27,0.209,0.773,0.956
+QST Dataset3,State 2,Shadow Tomography,0.825,0.917,0.126,0.286,0.822,0.799
+QST Dataset3,State 3,Bayesian Inference,0.877,0.908,0.145,0.158,0.837,0.949
+QST Dataset3,State 4,Maximum Likelihood,0.94,0.809,0.055,0.129,0.766,0.802
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.828,0.751,0.121,0.106,0.836,0.842
+QST Dataset3,State 1,Quantum Neural Networks,0.87,0.884,0.239,0.105,0.725,0.85
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.735,0.877,0.28,0.121,0.814,0.77
+QST Dataset3,State 3,Shadow Tomography,0.777,0.913,0.27,0.257,0.901,0.762
+QST Dataset3,State 4,Bayesian Inference,0.824,0.753,0.102,0.204,0.92,0.816
+QST Dataset3,State 5,Maximum Likelihood,0.791,0.857,0.191,0.269,0.739,0.795
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.705,0.844,0.136,0.252,0.888,0.824
+QST Dataset3,State 2,Quantum Neural Networks,0.781,0.72,0.151,0.163,0.719,0.895
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.729,0.946,0.143,0.173,0.905,0.797
+QST Dataset3,State 4,Shadow Tomography,0.849,0.731,0.166,0.224,0.803,0.82
+QST Dataset3,State 5,Bayesian Inference,0.769,0.888,0.185,0.075,0.816,0.79
+QST Dataset3,State 1,Maximum Likelihood,0.857,0.769,0.133,0.188,0.92,0.882
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.885,0.769,0.076,0.292,0.779,0.832
+QST Dataset3,State 3,Quantum Neural Networks,0.76,0.71,0.184,0.23,0.792,0.797
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.761,0.832,0.29,0.101,0.806,0.915
+QST Dataset3,State 5,Shadow Tomography,0.835,0.854,0.218,0.274,0.714,0.845
+QST Dataset3,State 1,Bayesian Inference,0.833,0.822,0.138,0.297,0.659,0.97
+QST Dataset3,State 2,Maximum Likelihood,0.805,0.928,0.1,0.249,0.766,0.793
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.947,0.817,0.286,0.182,0.79,0.777
+QST Dataset3,State 4,Quantum Neural Networks,0.901,0.716,0.215,0.215,0.907,0.791
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.889,0.739,0.115,0.234,0.807,0.846
+QST Dataset3,State 1,Shadow Tomography,0.756,0.819,0.26,0.099,0.827,0.847
+QST Dataset3,State 2,Bayesian Inference,0.912,0.895,0.068,0.114,0.888,0.937
+QST Dataset3,State 3,Maximum Likelihood,0.73,0.711,0.262,0.237,0.902,0.942
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.811,0.845,0.179,0.221,0.681,0.837
+QST Dataset3,State 5,Quantum Neural Networks,0.763,0.923,0.197,0.127,0.915,0.876
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.724,0.838,0.149,0.219,0.734,0.849
+QST Dataset3,State 2,Shadow Tomography,0.702,0.701,0.071,0.174,0.748,0.931
+QST Dataset3,State 3,Bayesian Inference,0.943,0.724,0.191,0.12,0.925,0.957
+QST Dataset3,State 4,Maximum Likelihood,0.929,0.874,0.136,0.289,0.814,0.828
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.774,0.771,0.178,0.292,0.857,0.837
+QST Dataset3,State 1,Quantum Neural Networks,0.907,0.94,0.129,0.29,0.871,0.771
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.786,0.87,0.237,0.207,0.856,0.877
+QST Dataset3,State 3,Shadow Tomography,0.789,0.817,0.276,0.168,0.798,0.96
+QST Dataset3,State 4,Bayesian Inference,0.945,0.856,0.184,0.284,0.804,0.924
+QST Dataset3,State 5,Maximum Likelihood,0.917,0.895,0.234,0.084,0.814,0.794
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.851,0.894,0.069,0.192,0.787,0.787
+QST Dataset3,State 2,Quantum Neural Networks,0.774,0.937,0.145,0.258,0.688,0.943
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.817,0.736,0.084,0.08,0.721,0.761
+QST Dataset3,State 4,Shadow Tomography,0.708,0.765,0.164,0.084,0.724,0.794
+QST Dataset3,State 5,Bayesian Inference,0.85,0.751,0.168,0.138,0.818,0.823
+QST Dataset3,State 1,Maximum Likelihood,0.926,0.807,0.09,0.09,0.87,0.92
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.878,0.751,0.285,0.251,0.894,0.897
+QST Dataset3,State 3,Quantum Neural Networks,0.949,0.872,0.063,0.187,0.778,0.84
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.835,0.83,0.207,0.131,0.873,0.967
+QST Dataset3,State 5,Shadow Tomography,0.792,0.77,0.114,0.212,0.748,0.898
+QST Dataset3,State 1,Bayesian Inference,0.814,0.733,0.175,0.261,0.809,0.923
+QST Dataset3,State 2,Maximum Likelihood,0.907,0.724,0.071,0.07,0.917,0.778
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.862,0.709,0.258,0.094,0.914,0.873
+QST Dataset3,State 4,Quantum Neural Networks,0.892,0.901,0.126,0.223,0.918,0.828
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.944,0.867,0.176,0.081,0.694,0.849
+QST Dataset3,State 1,Shadow Tomography,0.91,0.728,0.05,0.092,0.768,0.863
+QST Dataset3,State 2,Bayesian Inference,0.841,0.858,0.06,0.101,0.863,0.799
+QST Dataset3,State 3,Maximum Likelihood,0.84,0.89,0.208,0.139,0.745,0.754
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.881,0.843,0.16,0.073,0.859,0.853
+QST Dataset3,State 5,Quantum Neural Networks,0.905,0.794,0.158,0.072,0.686,0.768
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.844,0.702,0.136,0.119,0.716,0.94
+QST Dataset3,State 2,Shadow Tomography,0.723,0.824,0.103,0.251,0.842,0.756
+QST Dataset3,State 3,Bayesian Inference,0.763,0.874,0.239,0.251,0.738,0.945
+QST Dataset3,State 4,Maximum Likelihood,0.809,0.934,0.245,0.229,0.922,0.829
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.935,0.874,0.125,0.149,0.907,0.89
+QST Dataset3,State 1,Quantum Neural Networks,0.812,0.716,0.067,0.196,0.872,0.816
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.831,0.874,0.101,0.247,0.821,0.931
+QST Dataset3,State 3,Shadow Tomography,0.85,0.733,0.257,0.064,0.854,0.756
+QST Dataset3,State 4,Bayesian Inference,0.726,0.934,0.256,0.108,0.781,0.793
+QST Dataset3,State 5,Maximum Likelihood,0.902,0.729,0.169,0.296,0.915,0.891
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.821,0.9,0.113,0.068,0.888,0.913
+QST Dataset3,State 2,Quantum Neural Networks,0.746,0.819,0.245,0.115,0.907,0.936
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.812,0.942,0.092,0.245,0.827,0.752
+QST Dataset3,State 4,Shadow Tomography,0.872,0.738,0.135,0.056,0.793,0.895
+QST Dataset3,State 5,Bayesian Inference,0.764,0.892,0.291,0.164,0.811,0.856
+QST Dataset3,State 1,Maximum Likelihood,0.831,0.724,0.143,0.288,0.893,0.777
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.731,0.794,0.148,0.169,0.881,0.824
+QST Dataset3,State 3,Quantum Neural Networks,0.702,0.858,0.286,0.079,0.684,0.83
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.771,0.766,0.278,0.073,0.858,0.894
+QST Dataset3,State 5,Shadow Tomography,0.796,0.864,0.085,0.213,0.795,0.956
+QST Dataset3,State 1,Bayesian Inference,0.874,0.721,0.232,0.091,0.907,0.821
+QST Dataset3,State 2,Maximum Likelihood,0.73,0.798,0.08,0.278,0.77,0.835
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.773,0.801,0.22,0.083,0.672,0.896
+QST Dataset3,State 4,Quantum Neural Networks,0.894,0.728,0.181,0.232,0.72,0.88
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.875,0.914,0.156,0.227,0.744,0.854
+QST Dataset3,State 1,Shadow Tomography,0.929,0.88,0.238,0.176,0.685,0.795
+QST Dataset3,State 2,Bayesian Inference,0.877,0.809,0.267,0.06,0.903,0.797
+QST Dataset3,State 3,Maximum Likelihood,0.896,0.854,0.121,0.151,0.791,0.751
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.79,0.803,0.157,0.215,0.697,0.918
+QST Dataset3,State 5,Quantum Neural Networks,0.866,0.776,0.166,0.054,0.836,0.919
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.892,0.769,0.123,0.155,0.835,0.946
+QST Dataset3,State 2,Shadow Tomography,0.948,0.722,0.13,0.051,0.727,0.792
+QST Dataset3,State 3,Bayesian Inference,0.794,0.776,0.294,0.272,0.809,0.896
+QST Dataset3,State 4,Maximum Likelihood,0.764,0.842,0.128,0.239,0.741,0.883
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.798,0.86,0.244,0.271,0.848,0.76
+QST Dataset3,State 1,Quantum Neural Networks,0.838,0.779,0.257,0.093,0.903,0.921
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.864,0.759,0.124,0.277,0.706,0.81
+QST Dataset3,State 3,Shadow Tomography,0.817,0.859,0.204,0.124,0.852,0.917
+QST Dataset3,State 4,Bayesian Inference,0.896,0.727,0.05,0.103,0.712,0.964
+QST Dataset3,State 5,Maximum Likelihood,0.765,0.757,0.144,0.174,0.864,0.899
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.924,0.762,0.113,0.068,0.795,0.791
+QST Dataset3,State 2,Quantum Neural Networks,0.871,0.782,0.277,0.269,0.88,0.881
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.875,0.76,0.258,0.203,0.804,0.785
+QST Dataset3,State 4,Shadow Tomography,0.722,0.784,0.255,0.24,0.86,0.768
+QST Dataset3,State 5,Bayesian Inference,0.911,0.706,0.095,0.051,0.703,0.758
+QST Dataset3,State 1,Maximum Likelihood,0.748,0.817,0.211,0.199,0.716,0.81
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.819,0.888,0.254,0.157,0.664,0.914
+QST Dataset3,State 3,Quantum Neural Networks,0.833,0.933,0.124,0.077,0.894,0.793
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.818,0.71,0.138,0.07,0.749,0.943
+QST Dataset3,State 5,Shadow Tomography,0.894,0.905,0.213,0.172,0.837,0.845
+QST Dataset3,State 1,Bayesian Inference,0.839,0.847,0.202,0.289,0.794,0.853
+QST Dataset3,State 2,Maximum Likelihood,0.718,0.704,0.232,0.28,0.868,0.957
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.896,0.788,0.13,0.099,0.911,0.907
+QST Dataset3,State 4,Quantum Neural Networks,0.907,0.933,0.198,0.179,0.862,0.864
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.803,0.921,0.254,0.065,0.806,0.905
+QST Dataset3,State 1,Shadow Tomography,0.851,0.706,0.233,0.152,0.735,0.825
+QST Dataset3,State 2,Bayesian Inference,0.748,0.738,0.284,0.3,0.905,0.833
+QST Dataset3,State 3,Maximum Likelihood,0.808,0.873,0.093,0.153,0.681,0.797
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.745,0.832,0.063,0.244,0.781,0.912
+QST Dataset3,State 5,Quantum Neural Networks,0.764,0.757,0.074,0.104,0.706,0.902
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.896,0.892,0.158,0.233,0.677,0.806
+QST Dataset3,State 2,Shadow Tomography,0.928,0.847,0.123,0.256,0.812,0.83
+QST Dataset3,State 3,Bayesian Inference,0.734,0.782,0.059,0.208,0.838,0.857
+QST Dataset3,State 4,Maximum Likelihood,0.945,0.903,0.094,0.284,0.703,0.81
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.801,0.861,0.252,0.182,0.689,0.926
+QST Dataset3,State 1,Quantum Neural Networks,0.814,0.834,0.064,0.218,0.853,0.918
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.871,0.809,0.2,0.163,0.75,0.919
+QST Dataset3,State 3,Shadow Tomography,0.802,0.87,0.14,0.177,0.825,0.752
+QST Dataset3,State 4,Bayesian Inference,0.943,0.753,0.279,0.087,0.905,0.771
+QST Dataset3,State 5,Maximum Likelihood,0.874,0.911,0.197,0.242,0.737,0.958
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.753,0.855,0.274,0.082,0.93,0.882
+QST Dataset3,State 2,Quantum Neural Networks,0.946,0.888,0.223,0.098,0.82,0.789
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.916,0.843,0.189,0.075,0.716,0.853
+QST Dataset3,State 4,Shadow Tomography,0.884,0.729,0.089,0.201,0.907,0.765
+QST Dataset3,State 5,Bayesian Inference,0.922,0.908,0.181,0.252,0.8,0.964
+QST Dataset3,State 1,Maximum Likelihood,0.702,0.745,0.187,0.143,0.883,0.963
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.735,0.74,0.141,0.05,0.687,0.86
+QST Dataset3,State 3,Quantum Neural Networks,0.836,0.727,0.231,0.092,0.732,0.779
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.919,0.702,0.218,0.054,0.928,0.765
+QST Dataset3,State 5,Shadow Tomography,0.93,0.864,0.097,0.136,0.924,0.939
+QST Dataset3,State 1,Bayesian Inference,0.903,0.797,0.102,0.083,0.87,0.941
+QST Dataset3,State 2,Maximum Likelihood,0.833,0.791,0.203,0.122,0.716,0.885
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.93,0.844,0.104,0.147,0.671,0.753
+QST Dataset3,State 4,Quantum Neural Networks,0.768,0.925,0.119,0.117,0.879,0.961
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.824,0.942,0.257,0.251,0.807,0.951
+QST Dataset3,State 1,Shadow Tomography,0.886,0.836,0.248,0.187,0.821,0.836
+QST Dataset3,State 2,Bayesian Inference,0.773,0.874,0.052,0.255,0.8,0.763
+QST Dataset3,State 3,Maximum Likelihood,0.778,0.759,0.187,0.145,0.693,0.78
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.814,0.724,0.283,0.251,0.794,0.88
+QST Dataset3,State 5,Quantum Neural Networks,0.802,0.919,0.269,0.076,0.885,0.846
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.902,0.934,0.264,0.079,0.915,0.837
+QST Dataset3,State 2,Shadow Tomography,0.747,0.813,0.153,0.141,0.812,0.834
+QST Dataset3,State 3,Bayesian Inference,0.707,0.752,0.256,0.256,0.71,0.947
+QST Dataset3,State 4,Maximum Likelihood,0.726,0.818,0.192,0.243,0.684,0.938
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.814,0.934,0.071,0.219,0.816,0.906
+QST Dataset3,State 1,Quantum Neural Networks,0.912,0.723,0.227,0.091,0.806,0.964
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.71,0.785,0.121,0.065,0.689,0.864
+QST Dataset3,State 3,Shadow Tomography,0.924,0.801,0.157,0.23,0.897,0.968
+QST Dataset3,State 4,Bayesian Inference,0.928,0.769,0.097,0.15,0.752,0.797
+QST Dataset3,State 5,Maximum Likelihood,0.764,0.926,0.239,0.13,0.787,0.789
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.794,0.916,0.257,0.072,0.866,0.828
+QST Dataset3,State 2,Quantum Neural Networks,0.792,0.942,0.264,0.252,0.87,0.791
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.818,0.771,0.125,0.18,0.751,0.969
+QST Dataset3,State 4,Shadow Tomography,0.838,0.93,0.129,0.162,0.721,0.908
+QST Dataset3,State 5,Bayesian Inference,0.8,0.792,0.267,0.171,0.697,0.842
+QST Dataset3,State 1,Maximum Likelihood,0.891,0.938,0.189,0.247,0.713,0.862
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.811,0.896,0.229,0.075,0.688,0.844
+QST Dataset3,State 3,Quantum Neural Networks,0.904,0.787,0.234,0.261,0.66,0.885
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.911,0.734,0.207,0.224,0.717,0.774
+QST Dataset3,State 5,Shadow Tomography,0.798,0.834,0.202,0.256,0.895,0.918
+QST Dataset3,State 1,Bayesian Inference,0.881,0.751,0.16,0.07,0.686,0.87
+QST Dataset3,State 2,Maximum Likelihood,0.92,0.838,0.195,0.211,0.793,0.854
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.934,0.886,0.247,0.235,0.724,0.873
+QST Dataset3,State 4,Quantum Neural Networks,0.897,0.864,0.26,0.284,0.886,0.821
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.795,0.793,0.086,0.082,0.758,0.893
+QST Dataset3,State 1,Shadow Tomography,0.784,0.78,0.252,0.089,0.733,0.909
+QST Dataset3,State 2,Bayesian Inference,0.897,0.868,0.133,0.107,0.925,0.958
+QST Dataset3,State 3,Maximum Likelihood,0.733,0.868,0.134,0.147,0.699,0.837
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.946,0.824,0.137,0.173,0.7,0.903
+QST Dataset3,State 5,Quantum Neural Networks,0.804,0.774,0.14,0.142,0.663,0.929
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.922,0.758,0.187,0.065,0.707,0.893
+QST Dataset3,State 2,Shadow Tomography,0.938,0.728,0.247,0.208,0.708,0.778
+QST Dataset3,State 3,Bayesian Inference,0.781,0.754,0.297,0.171,0.692,0.86
+QST Dataset3,State 4,Maximum Likelihood,0.768,0.911,0.28,0.132,0.815,0.802
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.922,0.757,0.168,0.194,0.909,0.844
+QST Dataset3,State 1,Quantum Neural Networks,0.76,0.714,0.269,0.141,0.901,0.858
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.734,0.839,0.176,0.263,0.739,0.824
+QST Dataset3,State 3,Shadow Tomography,0.898,0.943,0.164,0.148,0.86,0.86
+QST Dataset3,State 4,Bayesian Inference,0.734,0.745,0.095,0.21,0.898,0.845
+QST Dataset3,State 5,Maximum Likelihood,0.867,0.742,0.214,0.28,0.927,0.886
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.719,0.866,0.268,0.295,0.763,0.769
+QST Dataset3,State 2,Quantum Neural Networks,0.83,0.703,0.219,0.19,0.755,0.886
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.81,0.928,0.279,0.164,0.751,0.813
+QST Dataset3,State 4,Shadow Tomography,0.854,0.717,0.13,0.249,0.707,0.869
+QST Dataset3,State 5,Bayesian Inference,0.923,0.776,0.144,0.103,0.688,0.849
+QST Dataset3,State 1,Maximum Likelihood,0.804,0.881,0.08,0.259,0.654,0.849
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.847,0.935,0.096,0.118,0.915,0.956
+QST Dataset3,State 3,Quantum Neural Networks,0.901,0.79,0.104,0.119,0.707,0.875
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.746,0.758,0.233,0.11,0.84,0.846
+QST Dataset3,State 5,Shadow Tomography,0.705,0.774,0.23,0.218,0.697,0.901
+QST Dataset3,State 1,Bayesian Inference,0.746,0.827,0.233,0.262,0.667,0.783
+QST Dataset3,State 2,Maximum Likelihood,0.935,0.719,0.228,0.093,0.752,0.865
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.832,0.944,0.21,0.102,0.72,0.806
+QST Dataset3,State 4,Quantum Neural Networks,0.745,0.701,0.085,0.234,0.924,0.776
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.782,0.901,0.288,0.112,0.668,0.881
+QST Dataset3,State 1,Shadow Tomography,0.818,0.701,0.232,0.278,0.798,0.834
+QST Dataset3,State 2,Bayesian Inference,0.758,0.728,0.081,0.271,0.8,0.754
+QST Dataset3,State 3,Maximum Likelihood,0.88,0.818,0.167,0.228,0.769,0.866
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.778,0.86,0.229,0.278,0.682,0.885
+QST Dataset3,State 5,Quantum Neural Networks,0.704,0.775,0.255,0.298,0.91,0.896
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.763,0.751,0.246,0.106,0.722,0.817
+QST Dataset3,State 2,Shadow Tomography,0.881,0.946,0.13,0.274,0.66,0.926
+QST Dataset3,State 3,Bayesian Inference,0.932,0.807,0.171,0.256,0.928,0.861
+QST Dataset3,State 4,Maximum Likelihood,0.732,0.916,0.073,0.121,0.665,0.867
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.921,0.709,0.236,0.269,0.903,0.8
+QST Dataset3,State 1,Quantum Neural Networks,0.819,0.876,0.078,0.211,0.865,0.887
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.932,0.856,0.26,0.263,0.68,0.926
+QST Dataset3,State 3,Shadow Tomography,0.761,0.946,0.177,0.283,0.698,0.943
+QST Dataset3,State 4,Bayesian Inference,0.767,0.764,0.267,0.051,0.868,0.906
+QST Dataset3,State 5,Maximum Likelihood,0.822,0.802,0.178,0.063,0.839,0.834
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.926,0.727,0.282,0.125,0.75,0.865
+QST Dataset3,State 2,Quantum Neural Networks,0.81,0.84,0.121,0.207,0.887,0.78
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.904,0.93,0.198,0.215,0.765,0.831
+QST Dataset3,State 4,Shadow Tomography,0.733,0.916,0.176,0.1,0.895,0.816
+QST Dataset3,State 5,Bayesian Inference,0.771,0.707,0.084,0.214,0.805,0.794
+QST Dataset3,State 1,Maximum Likelihood,0.945,0.8,0.261,0.257,0.708,0.867
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.799,0.728,0.206,0.228,0.905,0.917
+QST Dataset3,State 3,Quantum Neural Networks,0.912,0.826,0.295,0.095,0.86,0.934
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.864,0.701,0.107,0.16,0.865,0.75
+QST Dataset3,State 5,Shadow Tomography,0.808,0.762,0.188,0.247,0.754,0.911
+QST Dataset3,State 1,Bayesian Inference,0.795,0.731,0.065,0.234,0.769,0.829
+QST Dataset3,State 2,Maximum Likelihood,0.898,0.917,0.155,0.154,0.719,0.897
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.947,0.917,0.088,0.124,0.68,0.938
+QST Dataset3,State 4,Quantum Neural Networks,0.899,0.804,0.125,0.129,0.661,0.76
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.864,0.743,0.24,0.223,0.818,0.821
+QST Dataset3,State 1,Shadow Tomography,0.89,0.768,0.28,0.134,0.763,0.81
+QST Dataset3,State 2,Bayesian Inference,0.938,0.859,0.174,0.261,0.732,0.817
+QST Dataset3,State 3,Maximum Likelihood,0.889,0.75,0.096,0.174,0.767,0.919
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.834,0.915,0.123,0.284,0.748,0.965
+QST Dataset3,State 5,Quantum Neural Networks,0.907,0.841,0.052,0.183,0.692,0.816
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.891,0.89,0.286,0.079,0.913,0.839
+QST Dataset3,State 2,Shadow Tomography,0.899,0.842,0.107,0.067,0.784,0.807
+QST Dataset3,State 3,Bayesian Inference,0.757,0.787,0.099,0.083,0.824,0.838
+QST Dataset3,State 4,Maximum Likelihood,0.849,0.876,0.224,0.168,0.787,0.912
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.728,0.872,0.147,0.291,0.663,0.864
+QST Dataset3,State 1,Quantum Neural Networks,0.872,0.816,0.286,0.169,0.821,0.759
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.93,0.758,0.288,0.071,0.897,0.81
+QST Dataset3,State 3,Shadow Tomography,0.742,0.909,0.256,0.247,0.781,0.768
+QST Dataset3,State 4,Bayesian Inference,0.736,0.742,0.101,0.231,0.672,0.886
+QST Dataset3,State 5,Maximum Likelihood,0.892,0.923,0.234,0.196,0.888,0.831
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.777,0.711,0.252,0.202,0.81,0.963
+QST Dataset3,State 2,Quantum Neural Networks,0.89,0.908,0.26,0.084,0.679,0.752
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.719,0.859,0.195,0.233,0.847,0.888
+QST Dataset3,State 4,Shadow Tomography,0.729,0.848,0.185,0.183,0.781,0.858
+QST Dataset3,State 5,Bayesian Inference,0.704,0.835,0.087,0.088,0.811,0.881
+QST Dataset3,State 1,Maximum Likelihood,0.944,0.847,0.056,0.215,0.704,0.924
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.782,0.836,0.166,0.11,0.922,0.882
+QST Dataset3,State 3,Quantum Neural Networks,0.81,0.859,0.255,0.056,0.695,0.851
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.748,0.759,0.166,0.24,0.734,0.874
+QST Dataset3,State 5,Shadow Tomography,0.809,0.885,0.279,0.052,0.808,0.892
+QST Dataset3,State 1,Bayesian Inference,0.811,0.934,0.155,0.075,0.706,0.769
+QST Dataset3,State 2,Maximum Likelihood,0.757,0.872,0.231,0.057,0.659,0.892
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.791,0.877,0.12,0.228,0.706,0.839
+QST Dataset3,State 4,Quantum Neural Networks,0.931,0.831,0.15,0.132,0.692,0.918
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.947,0.767,0.243,0.111,0.678,0.905
+QST Dataset3,State 1,Shadow Tomography,0.789,0.867,0.229,0.082,0.747,0.902
+QST Dataset3,State 2,Bayesian Inference,0.814,0.934,0.089,0.29,0.686,0.964
+QST Dataset3,State 3,Maximum Likelihood,0.944,0.836,0.135,0.094,0.873,0.769
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.898,0.874,0.269,0.15,0.853,0.823
+QST Dataset3,State 5,Quantum Neural Networks,0.769,0.915,0.152,0.099,0.812,0.902
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.867,0.76,0.201,0.065,0.871,0.774
+QST Dataset3,State 2,Shadow Tomography,0.784,0.924,0.243,0.217,0.851,0.926
+QST Dataset3,State 3,Bayesian Inference,0.905,0.936,0.066,0.288,0.752,0.754
+QST Dataset3,State 4,Maximum Likelihood,0.778,0.866,0.077,0.204,0.912,0.955
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.793,0.785,0.274,0.154,0.79,0.788
+QST Dataset3,State 1,Quantum Neural Networks,0.837,0.947,0.147,0.165,0.801,0.801
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.828,0.846,0.072,0.178,0.857,0.764
+QST Dataset3,State 3,Shadow Tomography,0.771,0.925,0.05,0.254,0.844,0.761
+QST Dataset3,State 4,Bayesian Inference,0.906,0.711,0.072,0.061,0.876,0.816
+QST Dataset3,State 5,Maximum Likelihood,0.791,0.851,0.215,0.207,0.909,0.918
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.812,0.825,0.052,0.07,0.734,0.847
+QST Dataset3,State 2,Quantum Neural Networks,0.891,0.826,0.079,0.26,0.769,0.833
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.827,0.89,0.172,0.145,0.923,0.783
+QST Dataset3,State 4,Shadow Tomography,0.861,0.774,0.262,0.174,0.912,0.967
+QST Dataset3,State 5,Bayesian Inference,0.899,0.91,0.244,0.272,0.874,0.931
+QST Dataset3,State 1,Maximum Likelihood,0.84,0.855,0.131,0.257,0.774,0.877
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.715,0.938,0.072,0.258,0.87,0.765
+QST Dataset3,State 3,Quantum Neural Networks,0.865,0.835,0.104,0.262,0.827,0.91
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.935,0.726,0.142,0.225,0.891,0.779
+QST Dataset3,State 5,Shadow Tomography,0.879,0.788,0.292,0.187,0.82,0.969
+QST Dataset3,State 1,Bayesian Inference,0.872,0.709,0.175,0.299,0.69,0.75
+QST Dataset3,State 2,Maximum Likelihood,0.834,0.929,0.059,0.09,0.762,0.796
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.761,0.893,0.259,0.272,0.678,0.755
+QST Dataset3,State 4,Quantum Neural Networks,0.908,0.801,0.204,0.108,0.774,0.85
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.748,0.92,0.188,0.209,0.737,0.853
+QST Dataset3,State 1,Shadow Tomography,0.826,0.928,0.191,0.251,0.925,0.931
+QST Dataset3,State 2,Bayesian Inference,0.912,0.733,0.217,0.292,0.753,0.797
+QST Dataset3,State 3,Maximum Likelihood,0.887,0.712,0.106,0.173,0.912,0.941
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.93,0.799,0.15,0.151,0.749,0.795
+QST Dataset3,State 5,Quantum Neural Networks,0.917,0.772,0.072,0.061,0.835,0.78
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.79,0.854,0.174,0.149,0.664,0.968
+QST Dataset3,State 2,Shadow Tomography,0.869,0.845,0.122,0.289,0.896,0.779
+QST Dataset3,State 3,Bayesian Inference,0.776,0.718,0.116,0.088,0.799,0.931
+QST Dataset3,State 4,Maximum Likelihood,0.908,0.926,0.103,0.124,0.859,0.852
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.918,0.832,0.12,0.082,0.857,0.872
+QST Dataset3,State 1,Quantum Neural Networks,0.928,0.806,0.286,0.15,0.792,0.839
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.944,0.872,0.191,0.134,0.835,0.83
+QST Dataset3,State 3,Shadow Tomography,0.938,0.714,0.146,0.151,0.795,0.868
+QST Dataset3,State 4,Bayesian Inference,0.935,0.811,0.255,0.285,0.863,0.957
+QST Dataset3,State 5,Maximum Likelihood,0.876,0.903,0.061,0.245,0.74,0.819
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.715,0.836,0.086,0.182,0.713,0.784
+QST Dataset3,State 2,Quantum Neural Networks,0.823,0.947,0.272,0.243,0.857,0.964
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.71,0.767,0.247,0.14,0.911,0.787
+QST Dataset3,State 4,Shadow Tomography,0.755,0.919,0.268,0.298,0.842,0.908
+QST Dataset3,State 5,Bayesian Inference,0.852,0.871,0.242,0.094,0.74,0.873
+QST Dataset3,State 1,Maximum Likelihood,0.913,0.808,0.101,0.276,0.866,0.841
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.787,0.762,0.064,0.291,0.76,0.805
+QST Dataset3,State 3,Quantum Neural Networks,0.875,0.825,0.143,0.293,0.767,0.87
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.79,0.791,0.162,0.292,0.834,0.79
+QST Dataset3,State 5,Shadow Tomography,0.82,0.701,0.157,0.122,0.827,0.81
+QST Dataset3,State 1,Bayesian Inference,0.772,0.917,0.253,0.259,0.661,0.92
+QST Dataset3,State 2,Maximum Likelihood,0.71,0.935,0.195,0.202,0.78,0.848
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.935,0.859,0.139,0.134,0.712,0.856
+QST Dataset3,State 4,Quantum Neural Networks,0.824,0.82,0.107,0.162,0.87,0.927
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.816,0.71,0.102,0.274,0.83,0.834
+QST Dataset3,State 1,Shadow Tomography,0.891,0.826,0.13,0.106,0.875,0.908
+QST Dataset3,State 2,Bayesian Inference,0.749,0.83,0.294,0.134,0.772,0.915
+QST Dataset3,State 3,Maximum Likelihood,0.864,0.762,0.154,0.282,0.691,0.963
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.704,0.856,0.145,0.106,0.785,0.961
+QST Dataset3,State 5,Quantum Neural Networks,0.742,0.813,0.157,0.214,0.706,0.925
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.92,0.808,0.116,0.084,0.855,0.875
+QST Dataset3,State 2,Shadow Tomography,0.816,0.908,0.26,0.201,0.765,0.91
+QST Dataset3,State 3,Bayesian Inference,0.78,0.948,0.144,0.173,0.7,0.904
+QST Dataset3,State 4,Maximum Likelihood,0.766,0.713,0.093,0.203,0.817,0.915
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.781,0.864,0.169,0.198,0.723,0.88
+QST Dataset3,State 1,Quantum Neural Networks,0.868,0.856,0.057,0.143,0.833,0.774
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.786,0.866,0.09,0.168,0.843,0.94
+QST Dataset3,State 3,Shadow Tomography,0.87,0.907,0.234,0.099,0.897,0.839
+QST Dataset3,State 4,Bayesian Inference,0.767,0.898,0.211,0.273,0.768,0.795
+QST Dataset3,State 5,Maximum Likelihood,0.899,0.744,0.14,0.064,0.847,0.847
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.888,0.858,0.254,0.103,0.791,0.932
+QST Dataset3,State 2,Quantum Neural Networks,0.721,0.897,0.264,0.109,0.658,0.964
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.741,0.942,0.243,0.173,0.766,0.905
+QST Dataset3,State 4,Shadow Tomography,0.715,0.827,0.242,0.086,0.751,0.909
+QST Dataset3,State 5,Bayesian Inference,0.8,0.792,0.231,0.27,0.712,0.761
+QST Dataset3,State 1,Maximum Likelihood,0.701,0.784,0.172,0.106,0.725,0.778
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.943,0.873,0.238,0.291,0.741,0.841
+QST Dataset3,State 3,Quantum Neural Networks,0.803,0.821,0.057,0.259,0.917,0.894
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.808,0.876,0.052,0.175,0.9,0.883
+QST Dataset3,State 5,Shadow Tomography,0.841,0.764,0.105,0.052,0.824,0.877
+QST Dataset3,State 1,Bayesian Inference,0.724,0.79,0.115,0.267,0.78,0.866
+QST Dataset3,State 2,Maximum Likelihood,0.889,0.719,0.296,0.28,0.706,0.951
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.815,0.729,0.209,0.065,0.785,0.831
+QST Dataset3,State 4,Quantum Neural Networks,0.816,0.79,0.211,0.148,0.716,0.964
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.79,0.932,0.062,0.051,0.721,0.802
+QST Dataset3,State 1,Shadow Tomography,0.704,0.733,0.19,0.05,0.758,0.837
+QST Dataset3,State 2,Bayesian Inference,0.764,0.764,0.231,0.108,0.915,0.945
+QST Dataset3,State 3,Maximum Likelihood,0.863,0.875,0.256,0.146,0.8,0.908
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.906,0.749,0.065,0.233,0.694,0.752
+QST Dataset3,State 5,Quantum Neural Networks,0.871,0.705,0.069,0.184,0.717,0.786
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.715,0.842,0.09,0.249,0.853,0.861
+QST Dataset3,State 2,Shadow Tomography,0.881,0.758,0.138,0.197,0.868,0.966
+QST Dataset3,State 3,Bayesian Inference,0.881,0.783,0.197,0.277,0.698,0.81
+QST Dataset3,State 4,Maximum Likelihood,0.811,0.934,0.234,0.224,0.84,0.937
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.877,0.753,0.29,0.293,0.678,0.759
+QST Dataset3,State 1,Quantum Neural Networks,0.708,0.777,0.275,0.216,0.664,0.837
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.76,0.921,0.235,0.102,0.888,0.867
+QST Dataset3,State 3,Shadow Tomography,0.737,0.845,0.065,0.259,0.9,0.945
+QST Dataset3,State 4,Bayesian Inference,0.913,0.851,0.292,0.272,0.793,0.775
+QST Dataset3,State 5,Maximum Likelihood,0.867,0.888,0.129,0.177,0.855,0.767
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.881,0.846,0.235,0.128,0.735,0.827
+QST Dataset3,State 2,Quantum Neural Networks,0.705,0.725,0.09,0.294,0.888,0.808
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.702,0.811,0.138,0.074,0.843,0.751
+QST Dataset3,State 4,Shadow Tomography,0.876,0.933,0.174,0.186,0.763,0.952
+QST Dataset3,State 5,Bayesian Inference,0.865,0.844,0.131,0.24,0.912,0.905
+QST Dataset3,State 1,Maximum Likelihood,0.798,0.758,0.16,0.129,0.748,0.902
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.932,0.937,0.139,0.182,0.91,0.76
+QST Dataset3,State 3,Quantum Neural Networks,0.722,0.84,0.299,0.168,0.722,0.803
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.798,0.722,0.259,0.131,0.749,0.803
+QST Dataset3,State 5,Shadow Tomography,0.708,0.821,0.176,0.3,0.775,0.907
+QST Dataset3,State 1,Bayesian Inference,0.831,0.949,0.297,0.25,0.712,0.81
+QST Dataset3,State 2,Maximum Likelihood,0.888,0.936,0.283,0.185,0.867,0.962
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.775,0.728,0.249,0.184,0.717,0.931
+QST Dataset3,State 4,Quantum Neural Networks,0.943,0.723,0.265,0.275,0.792,0.899
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.884,0.71,0.062,0.091,0.881,0.835
+QST Dataset3,State 1,Shadow Tomography,0.745,0.808,0.109,0.147,0.904,0.908
+QST Dataset3,State 2,Bayesian Inference,0.817,0.787,0.283,0.222,0.905,0.95
+QST Dataset3,State 3,Maximum Likelihood,0.726,0.746,0.29,0.24,0.712,0.95
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.783,0.82,0.282,0.276,0.672,0.826
+QST Dataset3,State 5,Quantum Neural Networks,0.778,0.911,0.227,0.139,0.655,0.81
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.894,0.83,0.222,0.247,0.825,0.871
+QST Dataset3,State 2,Shadow Tomography,0.757,0.924,0.282,0.095,0.848,0.913
+QST Dataset3,State 3,Bayesian Inference,0.817,0.788,0.104,0.052,0.913,0.886
+QST Dataset3,State 4,Maximum Likelihood,0.904,0.851,0.078,0.267,0.77,0.949
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.944,0.852,0.116,0.171,0.765,0.876
+QST Dataset3,State 1,Quantum Neural Networks,0.799,0.894,0.26,0.283,0.857,0.904
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.8,0.737,0.098,0.292,0.751,0.93
+QST Dataset3,State 3,Shadow Tomography,0.916,0.95,0.212,0.122,0.772,0.925
+QST Dataset3,State 4,Bayesian Inference,0.76,0.865,0.272,0.254,0.749,0.847
+QST Dataset3,State 5,Maximum Likelihood,0.755,0.845,0.055,0.288,0.928,0.884
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.898,0.858,0.118,0.159,0.909,0.824
+QST Dataset3,State 2,Quantum Neural Networks,0.74,0.704,0.174,0.214,0.84,0.791
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.71,0.755,0.232,0.248,0.653,0.761
+QST Dataset3,State 4,Shadow Tomography,0.832,0.715,0.265,0.089,0.79,0.805
+QST Dataset3,State 5,Bayesian Inference,0.806,0.781,0.239,0.272,0.786,0.759
+QST Dataset3,State 1,Maximum Likelihood,0.916,0.878,0.198,0.273,0.826,0.817
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.807,0.852,0.293,0.135,0.847,0.815
+QST Dataset3,State 3,Quantum Neural Networks,0.817,0.76,0.202,0.266,0.744,0.874
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.904,0.797,0.224,0.227,0.688,0.789
+QST Dataset3,State 5,Shadow Tomography,0.95,0.766,0.057,0.103,0.882,0.759
+QST Dataset3,State 1,Bayesian Inference,0.76,0.919,0.289,0.181,0.724,0.866
+QST Dataset3,State 2,Maximum Likelihood,0.74,0.721,0.147,0.151,0.666,0.866
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.793,0.795,0.096,0.126,0.862,0.945
+QST Dataset3,State 4,Quantum Neural Networks,0.725,0.895,0.248,0.251,0.761,0.932
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.946,0.903,0.063,0.102,0.651,0.954
+QST Dataset3,State 1,Shadow Tomography,0.902,0.756,0.127,0.068,0.72,0.798
+QST Dataset3,State 2,Bayesian Inference,0.921,0.73,0.177,0.295,0.806,0.83
+QST Dataset3,State 3,Maximum Likelihood,0.938,0.88,0.299,0.072,0.805,0.796
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.845,0.857,0.133,0.276,0.661,0.751
+QST Dataset3,State 5,Quantum Neural Networks,0.943,0.818,0.297,0.073,0.737,0.899
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.736,0.896,0.087,0.204,0.86,0.919
+QST Dataset3,State 2,Shadow Tomography,0.946,0.899,0.28,0.083,0.724,0.966
+QST Dataset3,State 3,Bayesian Inference,0.796,0.857,0.269,0.115,0.863,0.927
+QST Dataset3,State 4,Maximum Likelihood,0.775,0.897,0.169,0.234,0.921,0.81
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.836,0.803,0.235,0.222,0.89,0.911
+QST Dataset3,State 1,Quantum Neural Networks,0.859,0.895,0.218,0.236,0.788,0.913
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.816,0.866,0.274,0.086,0.807,0.794
+QST Dataset3,State 3,Shadow Tomography,0.784,0.943,0.252,0.063,0.693,0.899
+QST Dataset3,State 4,Bayesian Inference,0.843,0.764,0.248,0.285,0.677,0.886
+QST Dataset3,State 5,Maximum Likelihood,0.704,0.725,0.261,0.173,0.696,0.757
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.86,0.759,0.122,0.243,0.865,0.851
+QST Dataset3,State 2,Quantum Neural Networks,0.712,0.838,0.293,0.053,0.809,0.966
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.743,0.79,0.214,0.066,0.826,0.876
+QST Dataset3,State 4,Shadow Tomography,0.763,0.82,0.094,0.177,0.922,0.759
+QST Dataset3,State 5,Bayesian Inference,0.905,0.859,0.237,0.151,0.887,0.914
+QST Dataset3,State 1,Maximum Likelihood,0.858,0.94,0.179,0.195,0.727,0.752
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.718,0.721,0.238,0.076,0.9,0.755
+QST Dataset3,State 3,Quantum Neural Networks,0.817,0.794,0.084,0.165,0.817,0.83
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.815,0.743,0.129,0.153,0.78,0.815
+QST Dataset3,State 5,Shadow Tomography,0.818,0.869,0.158,0.198,0.854,0.898
+QST Dataset3,State 1,Bayesian Inference,0.72,0.915,0.19,0.235,0.901,0.899
+QST Dataset3,State 2,Maximum Likelihood,0.92,0.905,0.262,0.215,0.853,0.856
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.795,0.834,0.108,0.178,0.712,0.803
+QST Dataset3,State 4,Quantum Neural Networks,0.827,0.807,0.166,0.21,0.894,0.881
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.706,0.749,0.097,0.222,0.829,0.802
+QST Dataset3,State 1,Shadow Tomography,0.855,0.777,0.152,0.125,0.679,0.832
+QST Dataset3,State 2,Bayesian Inference,0.725,0.722,0.167,0.153,0.741,0.943
+QST Dataset3,State 3,Maximum Likelihood,0.888,0.847,0.193,0.246,0.872,0.839
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.925,0.745,0.296,0.283,0.865,0.83
+QST Dataset3,State 5,Quantum Neural Networks,0.925,0.925,0.054,0.209,0.745,0.883
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.706,0.813,0.099,0.274,0.793,0.919
+QST Dataset3,State 2,Shadow Tomography,0.869,0.789,0.074,0.126,0.821,0.755
+QST Dataset3,State 3,Bayesian Inference,0.77,0.95,0.096,0.275,0.79,0.912
+QST Dataset3,State 4,Maximum Likelihood,0.918,0.789,0.226,0.194,0.687,0.796
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.923,0.844,0.174,0.113,0.729,0.84
+QST Dataset3,State 1,Quantum Neural Networks,0.775,0.79,0.09,0.118,0.7,0.856
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.824,0.904,0.197,0.075,0.917,0.861
+QST Dataset3,State 3,Shadow Tomography,0.938,0.838,0.198,0.25,0.852,0.869
+QST Dataset3,State 4,Bayesian Inference,0.739,0.868,0.109,0.062,0.665,0.827
+QST Dataset3,State 5,Maximum Likelihood,0.722,0.894,0.094,0.23,0.695,0.883
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.922,0.913,0.083,0.135,0.909,0.919
+QST Dataset3,State 2,Quantum Neural Networks,0.927,0.808,0.194,0.195,0.849,0.836
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.927,0.837,0.23,0.288,0.682,0.797
+QST Dataset3,State 4,Shadow Tomography,0.926,0.884,0.08,0.287,0.925,0.826
+QST Dataset3,State 5,Bayesian Inference,0.721,0.785,0.21,0.268,0.811,0.791
+QST Dataset3,State 1,Maximum Likelihood,0.733,0.736,0.266,0.072,0.798,0.876
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.795,0.905,0.179,0.178,0.681,0.786
+QST Dataset3,State 3,Quantum Neural Networks,0.871,0.852,0.15,0.299,0.856,0.85
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.704,0.729,0.136,0.293,0.711,0.849
+QST Dataset3,State 5,Shadow Tomography,0.829,0.717,0.164,0.214,0.896,0.755
+QST Dataset3,State 1,Bayesian Inference,0.767,0.872,0.134,0.238,0.712,0.876
+QST Dataset3,State 2,Maximum Likelihood,0.845,0.86,0.239,0.246,0.876,0.858
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.765,0.777,0.272,0.255,0.661,0.838
+QST Dataset3,State 4,Quantum Neural Networks,0.81,0.773,0.222,0.246,0.92,0.783
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.829,0.869,0.185,0.284,0.656,0.874
+QST Dataset3,State 1,Shadow Tomography,0.946,0.703,0.147,0.282,0.686,0.85
+QST Dataset3,State 2,Bayesian Inference,0.905,0.747,0.076,0.239,0.878,0.962
+QST Dataset3,State 3,Maximum Likelihood,0.725,0.743,0.133,0.128,0.825,0.756
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.937,0.888,0.263,0.2,0.673,0.847
+QST Dataset3,State 5,Quantum Neural Networks,0.862,0.813,0.186,0.18,0.806,0.846
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.878,0.749,0.263,0.055,0.865,0.785
+QST Dataset3,State 2,Shadow Tomography,0.909,0.733,0.135,0.159,0.652,0.76
+QST Dataset3,State 3,Bayesian Inference,0.713,0.904,0.185,0.11,0.928,0.964
+QST Dataset3,State 4,Maximum Likelihood,0.735,0.888,0.296,0.162,0.651,0.804
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.892,0.799,0.133,0.066,0.906,0.837
+QST Dataset3,State 1,Quantum Neural Networks,0.815,0.894,0.128,0.23,0.686,0.919
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.938,0.845,0.208,0.241,0.744,0.923
+QST Dataset3,State 3,Shadow Tomography,0.911,0.922,0.183,0.296,0.735,0.837
+QST Dataset3,State 4,Bayesian Inference,0.936,0.821,0.111,0.216,0.805,0.753
+QST Dataset3,State 5,Maximum Likelihood,0.837,0.902,0.069,0.188,0.674,0.821
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.847,0.787,0.093,0.161,0.675,0.815
+QST Dataset3,State 2,Quantum Neural Networks,0.91,0.891,0.131,0.166,0.79,0.884
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.748,0.849,0.111,0.285,0.682,0.887
+QST Dataset3,State 4,Shadow Tomography,0.946,0.903,0.211,0.221,0.695,0.919
+QST Dataset3,State 5,Bayesian Inference,0.831,0.755,0.299,0.131,0.662,0.839
+QST Dataset3,State 1,Maximum Likelihood,0.856,0.926,0.204,0.196,0.689,0.96
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.773,0.917,0.218,0.101,0.766,0.779
+QST Dataset3,State 3,Quantum Neural Networks,0.744,0.884,0.296,0.264,0.912,0.785
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.88,0.716,0.143,0.279,0.796,0.922
+QST Dataset3,State 5,Shadow Tomography,0.907,0.878,0.227,0.165,0.905,0.955
+QST Dataset3,State 1,Bayesian Inference,0.825,0.722,0.156,0.211,0.858,0.777
+QST Dataset3,State 2,Maximum Likelihood,0.777,0.825,0.25,0.101,0.713,0.934
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.793,0.855,0.225,0.122,0.892,0.79
+QST Dataset3,State 4,Quantum Neural Networks,0.906,0.783,0.241,0.195,0.679,0.76
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.93,0.899,0.145,0.138,0.88,0.791
+QST Dataset3,State 1,Shadow Tomography,0.8,0.908,0.177,0.131,0.73,0.849
+QST Dataset3,State 2,Bayesian Inference,0.722,0.939,0.241,0.219,0.695,0.813
+QST Dataset3,State 3,Maximum Likelihood,0.733,0.733,0.152,0.084,0.669,0.781
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.753,0.832,0.146,0.135,0.91,0.842
+QST Dataset3,State 5,Quantum Neural Networks,0.883,0.89,0.193,0.266,0.828,0.808
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.824,0.91,0.2,0.197,0.884,0.787
+QST Dataset3,State 2,Shadow Tomography,0.838,0.726,0.056,0.299,0.765,0.874
+QST Dataset3,State 3,Bayesian Inference,0.919,0.791,0.156,0.057,0.741,0.836
+QST Dataset3,State 4,Maximum Likelihood,0.807,0.891,0.129,0.246,0.744,0.828
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.833,0.727,0.271,0.096,0.701,0.904
+QST Dataset3,State 1,Quantum Neural Networks,0.781,0.84,0.064,0.257,0.759,0.754
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.932,0.878,0.061,0.235,0.743,0.945
+QST Dataset3,State 3,Shadow Tomography,0.886,0.711,0.214,0.21,0.728,0.756
+QST Dataset3,State 4,Bayesian Inference,0.775,0.892,0.05,0.135,0.687,0.852
+QST Dataset3,State 5,Maximum Likelihood,0.772,0.816,0.188,0.083,0.675,0.772
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.809,0.886,0.257,0.144,0.773,0.888
+QST Dataset3,State 2,Quantum Neural Networks,0.81,0.81,0.239,0.156,0.675,0.767
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.726,0.844,0.229,0.113,0.833,0.845
+QST Dataset3,State 4,Shadow Tomography,0.714,0.93,0.291,0.057,0.918,0.921
+QST Dataset3,State 5,Bayesian Inference,0.737,0.757,0.288,0.277,0.799,0.853
+QST Dataset3,State 1,Maximum Likelihood,0.757,0.911,0.245,0.075,0.833,0.935
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.732,0.818,0.279,0.123,0.93,0.91
+QST Dataset3,State 3,Quantum Neural Networks,0.935,0.767,0.106,0.16,0.71,0.75
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.832,0.894,0.297,0.22,0.68,0.964
+QST Dataset3,State 5,Shadow Tomography,0.853,0.84,0.137,0.084,0.787,0.796
+QST Dataset3,State 1,Bayesian Inference,0.884,0.824,0.241,0.224,0.91,0.83
+QST Dataset3,State 2,Maximum Likelihood,0.922,0.764,0.223,0.199,0.677,0.825
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.867,0.761,0.19,0.054,0.775,0.829
+QST Dataset3,State 4,Quantum Neural Networks,0.891,0.728,0.255,0.191,0.774,0.827
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.901,0.719,0.111,0.173,0.756,0.76
+QST Dataset3,State 1,Shadow Tomography,0.758,0.808,0.13,0.166,0.701,0.802
+QST Dataset3,State 2,Bayesian Inference,0.761,0.861,0.209,0.073,0.733,0.923
+QST Dataset3,State 3,Maximum Likelihood,0.918,0.725,0.092,0.116,0.719,0.86
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.744,0.95,0.212,0.269,0.837,0.963
+QST Dataset3,State 5,Quantum Neural Networks,0.95,0.727,0.166,0.216,0.666,0.922
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.825,0.705,0.184,0.194,0.844,0.772
+QST Dataset3,State 2,Shadow Tomography,0.821,0.811,0.239,0.089,0.813,0.969
+QST Dataset3,State 3,Bayesian Inference,0.818,0.714,0.115,0.22,0.851,0.844
+QST Dataset3,State 4,Maximum Likelihood,0.947,0.791,0.143,0.233,0.804,0.855
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.727,0.93,0.176,0.235,0.657,0.816
+QST Dataset3,State 1,Quantum Neural Networks,0.941,0.925,0.268,0.145,0.795,0.755
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.906,0.809,0.121,0.134,0.718,0.912
+QST Dataset3,State 3,Shadow Tomography,0.795,0.788,0.161,0.113,0.863,0.827
+QST Dataset3,State 4,Bayesian Inference,0.851,0.892,0.14,0.268,0.696,0.877
+QST Dataset3,State 5,Maximum Likelihood,0.822,0.777,0.282,0.292,0.765,0.774
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.847,0.906,0.255,0.069,0.784,0.89
+QST Dataset3,State 2,Quantum Neural Networks,0.918,0.701,0.285,0.101,0.841,0.833
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.844,0.842,0.238,0.062,0.755,0.831
+QST Dataset3,State 4,Shadow Tomography,0.826,0.867,0.195,0.079,0.883,0.857
+QST Dataset3,State 5,Bayesian Inference,0.805,0.838,0.168,0.287,0.68,0.949
+QST Dataset3,State 1,Maximum Likelihood,0.872,0.855,0.075,0.265,0.788,0.888
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.9,0.899,0.164,0.141,0.912,0.931
+QST Dataset3,State 3,Quantum Neural Networks,0.745,0.715,0.186,0.17,0.735,0.952
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.756,0.738,0.051,0.196,0.826,0.857
+QST Dataset3,State 5,Shadow Tomography,0.783,0.789,0.12,0.062,0.706,0.927
+QST Dataset3,State 1,Bayesian Inference,0.74,0.723,0.066,0.233,0.684,0.762
+QST Dataset3,State 2,Maximum Likelihood,0.833,0.924,0.272,0.282,0.711,0.765
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.81,0.818,0.154,0.158,0.851,0.881
+QST Dataset3,State 4,Quantum Neural Networks,0.928,0.721,0.111,0.095,0.803,0.759
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.714,0.893,0.073,0.132,0.821,0.863
+QST Dataset3,State 1,Shadow Tomography,0.757,0.807,0.286,0.158,0.754,0.936
+QST Dataset3,State 2,Bayesian Inference,0.736,0.856,0.253,0.188,0.691,0.849
+QST Dataset3,State 3,Maximum Likelihood,0.843,0.942,0.281,0.056,0.863,0.769
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.854,0.888,0.05,0.057,0.777,0.858
+QST Dataset3,State 5,Quantum Neural Networks,0.806,0.899,0.058,0.206,0.7,0.792
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.837,0.782,0.183,0.25,0.746,0.768
+QST Dataset3,State 2,Shadow Tomography,0.724,0.855,0.222,0.076,0.765,0.907
+QST Dataset3,State 3,Bayesian Inference,0.888,0.82,0.215,0.065,0.702,0.802
+QST Dataset3,State 4,Maximum Likelihood,0.793,0.815,0.248,0.088,0.929,0.8
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.804,0.814,0.217,0.283,0.817,0.801
+QST Dataset3,State 1,Quantum Neural Networks,0.729,0.824,0.195,0.217,0.744,0.914
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.939,0.784,0.244,0.095,0.811,0.87
+QST Dataset3,State 3,Shadow Tomography,0.78,0.881,0.212,0.201,0.915,0.882
+QST Dataset3,State 4,Bayesian Inference,0.899,0.841,0.1,0.121,0.794,0.821
+QST Dataset3,State 5,Maximum Likelihood,0.77,0.773,0.282,0.277,0.747,0.861
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.746,0.802,0.3,0.29,0.849,0.797
+QST Dataset3,State 2,Quantum Neural Networks,0.917,0.853,0.078,0.147,0.733,0.889
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.9,0.919,0.182,0.294,0.675,0.796
+QST Dataset3,State 4,Shadow Tomography,0.849,0.848,0.094,0.155,0.727,0.88
+QST Dataset3,State 5,Bayesian Inference,0.782,0.833,0.064,0.122,0.69,0.868
+QST Dataset3,State 1,Maximum Likelihood,0.93,0.748,0.255,0.252,0.771,0.91
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.928,0.864,0.198,0.095,0.914,0.762
+QST Dataset3,State 3,Quantum Neural Networks,0.701,0.84,0.212,0.139,0.657,0.895
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.74,0.91,0.191,0.094,0.696,0.873
+QST Dataset3,State 5,Shadow Tomography,0.915,0.717,0.146,0.23,0.804,0.849
+QST Dataset3,State 1,Bayesian Inference,0.733,0.737,0.266,0.08,0.749,0.765
+QST Dataset3,State 2,Maximum Likelihood,0.863,0.883,0.217,0.264,0.669,0.956
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.748,0.728,0.289,0.073,0.857,0.814
+QST Dataset3,State 4,Quantum Neural Networks,0.784,0.705,0.236,0.069,0.705,0.83
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.836,0.773,0.149,0.054,0.89,0.94
+QST Dataset3,State 1,Shadow Tomography,0.917,0.805,0.255,0.235,0.82,0.784
+QST Dataset3,State 2,Bayesian Inference,0.905,0.814,0.13,0.159,0.859,0.822
+QST Dataset3,State 3,Maximum Likelihood,0.947,0.764,0.293,0.072,0.708,0.819
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.837,0.904,0.261,0.109,0.846,0.953
+QST Dataset3,State 5,Quantum Neural Networks,0.925,0.843,0.106,0.269,0.674,0.934
+QST Dataset3,State 1,Reinforcement Learning Quantum Algorithms,0.791,0.875,0.159,0.11,0.704,0.825
+QST Dataset3,State 2,Shadow Tomography,0.89,0.939,0.133,0.127,0.869,0.95
+QST Dataset3,State 3,Bayesian Inference,0.757,0.789,0.178,0.104,0.826,0.832
+QST Dataset3,State 4,Maximum Likelihood,0.884,0.784,0.176,0.105,0.846,0.918
+QST Dataset3,State 5,Variational Quantum Eigensolver,0.941,0.904,0.203,0.258,0.766,0.769
+QST Dataset3,State 1,Quantum Neural Networks,0.798,0.843,0.173,0.257,0.697,0.762
+QST Dataset3,State 2,Reinforcement Learning Quantum Algorithms,0.826,0.834,0.255,0.268,0.892,0.867
+QST Dataset3,State 3,Shadow Tomography,0.723,0.743,0.252,0.086,0.924,0.766
+QST Dataset3,State 4,Bayesian Inference,0.935,0.762,0.094,0.299,0.737,0.799
+QST Dataset3,State 5,Maximum Likelihood,0.819,0.922,0.255,0.153,0.876,0.904
+QST Dataset3,State 1,Variational Quantum Eigensolver,0.736,0.811,0.107,0.275,0.788,0.909
+QST Dataset3,State 2,Quantum Neural Networks,0.906,0.744,0.092,0.065,0.701,0.945
+QST Dataset3,State 3,Reinforcement Learning Quantum Algorithms,0.931,0.767,0.183,0.127,0.737,0.818
+QST Dataset3,State 4,Shadow Tomography,0.903,0.944,0.271,0.126,0.697,0.781
+QST Dataset3,State 5,Bayesian Inference,0.906,0.716,0.129,0.136,0.776,0.761
+QST Dataset3,State 1,Maximum Likelihood,0.873,0.89,0.118,0.183,0.905,0.945
+QST Dataset3,State 2,Variational Quantum Eigensolver,0.939,0.736,0.094,0.26,0.659,0.751
+QST Dataset3,State 3,Quantum Neural Networks,0.898,0.889,0.211,0.253,0.772,0.958
+QST Dataset3,State 4,Reinforcement Learning Quantum Algorithms,0.816,0.778,0.089,0.146,0.761,0.839
+QST Dataset3,State 5,Shadow Tomography,0.842,0.831,0.273,0.126,0.854,0.954
+QST Dataset3,State 1,Bayesian Inference,0.728,0.93,0.052,0.085,0.652,0.869
+QST Dataset3,State 2,Maximum Likelihood,0.713,0.75,0.194,0.14,0.784,0.867
+QST Dataset3,State 3,Variational Quantum Eigensolver,0.819,0.723,0.185,0.23,0.815,0.895
+QST Dataset3,State 4,Quantum Neural Networks,0.839,0.942,0.185,0.191,0.915,0.907
+QST Dataset3,State 5,Reinforcement Learning Quantum Algorithms,0.869,0.743,0.064,0.288,0.821,0.843
+QST Dataset3,State 1,Shadow Tomography,0.878,0.723,0.113,0.252,0.689,0.912
+QST Dataset3,State 2,Bayesian Inference,0.753,0.844,0.293,0.061,0.858,0.76
+QST Dataset3,State 3,Maximum Likelihood,0.782,0.855,0.114,0.296,0.88,0.829
+QST Dataset3,State 4,Variational Quantum Eigensolver,0.738,0.718,0.211,0.254,0.756,0.776
+QST Dataset3,State 5,Quantum Neural Networks,0.882,0.879,0.089,0.099,0.827,0.804
